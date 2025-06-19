@@ -3,4 +3,8 @@ Chinemerem, Shell Navigation, not submitted
 Chiagoziem, Git, submitted
 Divine, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
-
+Daniel, Intro to linux, submitted
+Luigi, Python Basics, not submitted
+Nepo, Linux summative, not submitted
+Liata, SLTD summative, not submitted
+Sonia, Python formative, submitted
